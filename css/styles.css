@@ -1,0 +1,47 @@
+.navbar-brand a:hover, .navbar-brand a:focus{
+    text-decoration: none;
+}
+.category-tile{
+    background-color: lightgray;
+    height: 1000px;
+}
+#header-nav{
+    background-color: darkgray;
+    border: black solid 2px;
+    padding-bottom: 20px;
+}
+.navbar-brand h1{
+    color: black;
+    margin-top: 0;
+
+}
+h2{
+    color: black;
+}
+h3{
+    color: black;
+    padding-top: 10px;
+}
+p{
+    color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#nav-list li{
+    border: 1px solid black;
+    text-align: center;
+    background-color: lightgray;
+    color: black;
+    padding: 5px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+    border: 2px solid black;
+}
+.navbar-header button.navbar-toggle:focus, .navbar-header .icon-bar:focus{
+    border: 2px solid white;
+}
+.row{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
